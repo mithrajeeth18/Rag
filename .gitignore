@@ -34,8 +34,3 @@ logs/
 .vscode/
 .idea/
 
-# Codex / AI assistant local traces
-.codex/
-.codex-*/
-codex-*.log
-.codex-session*
